@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">ThumbPlan</string>
+
+    <!-- General -->
+    <string name="got_it">Got It</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="dismiss">Dismiss</string>
+
+    <!-- Empty States -->
+    <string name="empty_tasks_title">No Tasks Yet</string>
+    <string name="empty_tasks_subtitle">Create your first task to get started.</string>
+    <string name="empty_tasks_cta">Create Task</string>
+
+    <!-- Error States -->
+    <string name="error_generic_title">Failed to Load</string>
+    <string name="error_generic_subtitle">Something went wrong. Please try again.</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting">Good morning,</string>
+    <string name="desc_pick_image">Pick Image</string>
+    <string name="desc_add_task">Add Task</string>
+    <string name="desc_toggle_theme">Toggle Theme</string>
+    <string name="desc_record">Record</string>
+    <string name="desc_selected_image">Selected Image</string>
+    <string name="dashboard_tab_today">Today</string>
+    <string name="dashboard_tab_upcoming">Upcoming</string>
+    <string name="dashboard_tab_all">All</string>
+    <string name="dashboard_tab_done">Done</string>
+    <string name="search_hint">Search tasks, plans&#8230;</string>
+
+    <!-- Task Creation -->
+    <string name="create_task_title">Create New Task</string>
+    <string name="task_title_hint">e.g. Read a Book</string>
+    <string name="task_desc_hint">Add a short description&#8230;</string>
+    <string name="duration_one_day">One Day</string>
+    <string name="duration_week">Week</string>
+    <string name="duration_weekend">Weekend</string>
+    <string name="color_label">Color</string>
+    <string name="category_label">Category &amp; Reward</string>
+    <string name="category_cleaning">Cleaning</string>
+    <string name="category_reading">Reading a Book</string>
+    <string name="category_movie">Watching a Movie</string>
+    <string name="category_homework">Doing Homework</string>
+    <string name="category_studying">Studying</string>
+    <string name="category_article">Reading Article</string>
+    <string name="category_gaming">Gaming</string>
+    <string name="category_other">Other</string>
+
+    <string name="custom_category_name">Custom Task Name</string>
+    <string name="custom_category_coins">Coins (30-80)</string>
+    <string name="add_image_label">Add image</string>
+    <string name="reminder_label">Reminder</string>
+    <string name="custom_sound_label">Custom alarm sound</string>
+    <string name="save_task">Save Task</string>
+
+    <!-- Alarm & Completion -->
+    <string name="swipe_to_complete">Swipe to complete</string>
+    <string name="snooze">Snooze</string>
+    <string name="task_completed">Task Completed!</string>
+    <string name="quick_note_hint">Add a quick note&#8230;</string>
+    <string name="great_cta">Great!</string>
+    <string name="view_details">View Details</string>
+
+    <!-- Rewards -->
+    <string name="your_rewards">Your Rewards</string>
+    <string name="total_coins">Total Coins</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="streak_keep_going">Keep it going!</string>
+    <string name="daily_goal">Daily Goal</string>
+    <string name="share_plan_title">Share Your Plan</string>
+    <string name="share_plan_subtitle">Invite friends and earn coins</string>
+    <string name="invite_cta">Invite</string>
+</resources>

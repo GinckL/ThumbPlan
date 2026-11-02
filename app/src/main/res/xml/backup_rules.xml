@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Task photos/audio are copied into filesDir and referenced by the DB, so back up files + DB together. -->
+    <include domain="database" path="." />
+    <include domain="file" path="." />
+    <include domain="sharedpref" path="ThumbPlanPrefs.xml" />
+</full-backup-content>
